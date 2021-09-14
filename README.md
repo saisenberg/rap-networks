@@ -1,4 +1,4 @@
-## Rap Network Wnalysis: Which Rappers Work Together?
+## Rap Network Analysis: Which Rappers Work Together?
 
 This project creates a network map of different rap artists and rap groups, based on which artists feature on songs of others.
 
